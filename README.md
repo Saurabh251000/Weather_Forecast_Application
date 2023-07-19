@@ -25,4 +25,4 @@ For real time weather data drived from **Weather API**.
 
 **Website Link :** https://saurabh251000.github.io/CodeClause_Weather_Forecast_Application/
 
-**GitHub Repo Link :** ◇ Website is hosting at github.io
+**GitHub Repo Link :** https://github.com/Saurabh251000/CodeClause_Weather_Forecast_Application.git

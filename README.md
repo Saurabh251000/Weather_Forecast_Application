@@ -5,7 +5,7 @@
 ## Key Features of Website
 ◇ **User-Friendly :**  It is user-friendly website for users , clear navigation and a simple design contribute to a seamless user experience.
 
-◇ **Sections and Content Organization:** Include predefined sections such as "Temprature" , "Humidity"  and "Sunset/ Sunrise" and "References" to guide users for easy to search weathwe Updates . 
+◇ **Sections and Content Organization:** Include predefined sections such as "Temprature" , "Humidity"  and "Sunset/ Sunrise" and "References" to guide users for easy to search weather Updates . 
 
 ◇ **Real Time Weather Updates** Incorporate a real-time weather updates that allows users to see how eniviromental conditions.
 For real time weather data drived from **Weather API**.
